@@ -39,7 +39,6 @@ Library
       Extra-Libraries:        osxfuse
   else
       Extra-Libraries:        fuse
-  Extra-Lib-Dirs:         /usr/local/lib
   CC-Options:             "-D_FILE_OFFSET_BITS=64"
   Default-Language:       Haskell2010
 
